@@ -1,0 +1,13 @@
+C:\OpenServer\domains\udemy-C#\1\CSharpCourse\CSharpCourse\bin\Debug\netcoreapp3.1\CSharpCourse.exe
+C:\OpenServer\domains\udemy-C#\1\CSharpCourse\CSharpCourse\bin\Debug\netcoreapp3.1\CSharpCourse.deps.json
+C:\OpenServer\domains\udemy-C#\1\CSharpCourse\CSharpCourse\bin\Debug\netcoreapp3.1\CSharpCourse.runtimeconfig.json
+C:\OpenServer\domains\udemy-C#\1\CSharpCourse\CSharpCourse\bin\Debug\netcoreapp3.1\CSharpCourse.runtimeconfig.dev.json
+C:\OpenServer\domains\udemy-C#\1\CSharpCourse\CSharpCourse\bin\Debug\netcoreapp3.1\CSharpCourse.dll
+C:\OpenServer\domains\udemy-C#\1\CSharpCourse\CSharpCourse\bin\Debug\netcoreapp3.1\CSharpCourse.pdb
+C:\OpenServer\domains\udemy-C#\1\CSharpCourse\CSharpCourse\obj\Debug\netcoreapp3.1\CSharpCourse.csprojAssemblyReference.cache
+C:\OpenServer\domains\udemy-C#\1\CSharpCourse\CSharpCourse\obj\Debug\netcoreapp3.1\CSharpCourse.AssemblyInfoInputs.cache
+C:\OpenServer\domains\udemy-C#\1\CSharpCourse\CSharpCourse\obj\Debug\netcoreapp3.1\CSharpCourse.AssemblyInfo.cs
+C:\OpenServer\domains\udemy-C#\1\CSharpCourse\CSharpCourse\obj\Debug\netcoreapp3.1\CSharpCourse.csproj.CoreCompileInputs.cache
+C:\OpenServer\domains\udemy-C#\1\CSharpCourse\CSharpCourse\obj\Debug\netcoreapp3.1\CSharpCourse.dll
+C:\OpenServer\domains\udemy-C#\1\CSharpCourse\CSharpCourse\obj\Debug\netcoreapp3.1\CSharpCourse.pdb
+C:\OpenServer\domains\udemy-C#\1\CSharpCourse\CSharpCourse\obj\Debug\netcoreapp3.1\CSharpCourse.genruntimeconfig.cache
